@@ -1,0 +1,51 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(56, 56, 207);
+    font-style: italic;
+    font-size: 45px;
+    font-weight: bold;
+    background-color: rgb(215, 225, 236);
+    margin: 20px 2px 40px 2px;
+    text-align: center;
+    border-radius: 100px;
+    border: 2px;
+    border-width: thin;
+    border-style: solid;
+    border-color: rgb(153, 153, 212);
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-style: normal;
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 5px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 5px;
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 5px;
+}
